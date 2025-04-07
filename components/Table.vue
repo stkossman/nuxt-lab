@@ -16,7 +16,7 @@
           border-b-[4px] hover:brightness-110 hover:-translate-y-[1px] hover:border-b-[6px]
           active:border-b-[2px] active:brightness-90 active:translate-y-[2px] hover:shadow-xl hover:shadow-green-300 shadow-green-300 active:shadow-none"
       >
-        Пошук
+        Search
       </button>
       <button
           type="button"
@@ -28,7 +28,7 @@
           border-b-[4px] hover:brightness-110 hover:-translate-y-[1px] hover:border-b-[6px]
           active:border-b-[2px] active:brightness-90 active:translate-y-[2px] hover:shadow-xl hover:shadow-green-300 shadow-green-300 active:shadow-none"
       >
-        Очистити
+        Clear
       </button>
     </form>
 
