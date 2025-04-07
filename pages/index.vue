@@ -4,6 +4,6 @@
 
 <script setup>
 definePageMeta({
-  title: 'Список продуктів'
+  title: 'Products List'
 })
 </script>
