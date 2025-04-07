@@ -4,7 +4,7 @@ import tailwindcss from "@tailwindcss/vite";
 export default defineNuxtConfig({
   app: {
     head: {
-      title: 'Список Продуктів',
+      title: 'Products List',
       htmlAttrs: {
         lang: 'uk',
       }
